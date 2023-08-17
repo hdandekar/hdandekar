@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Hiresh Dandekar, I write Python code and by profession I am a Software Test Architect, currently supporting suite of products for Life Sciences domain.
+
+Sometimes I write and my blogs are hosted [HD's Blog](https://hdandekar.blogspot.com/)
+
 <!--
 **hdandekar/hdandekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
